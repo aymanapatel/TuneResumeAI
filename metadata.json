@@ -1,0 +1,5 @@
+{
+  "name": "ResuTune AI",
+  "description": "Intelligent resume tailoring tool that optimizes your PDF resume for specific job descriptions using Gemini.",
+  "requestFramePermissions": []
+}
